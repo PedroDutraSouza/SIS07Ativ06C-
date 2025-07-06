@@ -1,0 +1,14 @@
+E:\C#\SIS07Ativ06C#\p8\bin\Debug\net9.0\p8.exe
+E:\C#\SIS07Ativ06C#\p8\bin\Debug\net9.0\p8.deps.json
+E:\C#\SIS07Ativ06C#\p8\bin\Debug\net9.0\p8.runtimeconfig.json
+E:\C#\SIS07Ativ06C#\p8\bin\Debug\net9.0\p8.dll
+E:\C#\SIS07Ativ06C#\p8\bin\Debug\net9.0\p8.pdb
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.AssemblyInfoInputs.cache
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.AssemblyInfo.cs
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.csproj.CoreCompileInputs.cache
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.dll
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\refint\p8.dll
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.pdb
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\p8.genruntimeconfig.cache
+E:\C#\SIS07Ativ06C#\p8\obj\Debug\net9.0\ref\p8.dll
